@@ -89,3 +89,4 @@ TraceEnd: dangling pointer detected: 7fff1c010f90 (-> 200b2a0) @dang.c::14 (0x40
 ~mem_loc:
 ~4011c4@dang.c::9 (0x4011c4), 401215@dang.c::19 (0x401215), 7f2b5a8ea083@::0 (0x7f2b5a8ea083), 4010de@::0 (0x4010de), 
 ```
+
