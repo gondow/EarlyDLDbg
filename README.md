@@ -1,5 +1,5 @@
-# EarlyDLSAN
-An early detection tool of  dangling pointers and memory leaks
+# EarlyDLDbg
+An early detection/debugging tool of  dangling pointers and memory leaks
 
 ## Disclaimer 
 
@@ -11,7 +11,7 @@ from the use of this software.
 
 ## Platforms
 
-Currently, we built and tested EarlyDLSAN
+Currently, we built and tested EarlyDLDbg
 only on the following platform.
 
 - Linux Ubuntu 20.04.3 LTS, Intel Pin 3.28, GCC 9.4.0
